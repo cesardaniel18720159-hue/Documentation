@@ -4,3 +4,4 @@
  - PayPal: [https://www.paypal.me/zeronet/0usd](https://www.paypal.me/zeronet/0usd)
 
 Thanks!
+you is $ autodonate
